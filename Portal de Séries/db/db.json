@@ -1,0 +1,25 @@
+{
+  "autor": {
+    "nome": "Caio Fernandes da Silva",
+    "curso": "Ciência da Computação",
+    "email": "caiofsilva0@gmail.com",
+    "link_x": "https://www.x.com/caioneses",
+    "link_ig": "https://www.instagram.com/caioneses",
+    "link_lk": "https://www.linkedin.com/in/caio-fernandes-da-silva/",
+    "bio": "Me chamo Caio Fernandes e desenvolvi essa página com o objetivo de informar sobre séries de televisão, colocando em prática meus conhecimentos em Desenvolvimento de Interfaces Web. Sou formado como Técnico em Eletrônica pelo CEFET-MG e atualmente sou graduando em Ciência da Computação pela Puc Minas."
+  },
+  "favoritas": [
+    {
+      "id": "2734",
+      "nome": "Lei & Ordem: Unidade de Vítimas Especiais"
+    },
+    {
+      "id": "112836",
+      "nome": "La Casa de Papel: Coreia"
+    },
+    {
+      "id": "68467",
+      "nome": "3%"
+    }
+  ]
+}
